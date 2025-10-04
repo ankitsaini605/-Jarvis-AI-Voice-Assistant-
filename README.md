@@ -53,8 +53,8 @@ It can **listen to your commands, talk back, open websites, play music, fetch li
 ---
 
 ## 🔗 Connect with Me  
-🐙 GitHub: [github.com/ankitsaini](https://github.com/ankitsaini605)  
-🔗 LinkedIn: [linkedin.com/in/ankitsaini](https://linkedin.com/in/ankitsaini605)  
+🐙 GitHub: [github.com/ankitsaini605](https://github.com/ankitsaini605)  
+🔗 LinkedIn: [linkedin.com/in/ankitsaini605](https://linkedin.com/in/ankitsaini605)  
 🌐 Portfolio: [ankitsaini605.in]()  
 
 ---
