@@ -52,7 +52,9 @@ It can **listen to your commands, talk back, open websites, play music, fetch li
 
 ---
 
-## 🔗 Connect with Me  
-🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()   
+## 🔗 Connect with Me
+
+**Ankit Saini**
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio](https://ankitsaini605.github.io/) 📧 [Email](https://ankitsaini24082002@gmail.com)   
 
 ---
